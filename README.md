@@ -35,7 +35,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A TRVE REPORTARIE OF THE MOST TRIVMPHANT, AND ROYAL ACCOMplishment of the Baptisme of the most Excel
+
 #####Body#####
 
 1. A TRVE REPORTARIE OF THE BAPTISME OF THE PRINCE of Scotland.
@@ -74,55 +74,50 @@ There are 110 **ommitted** fragments!
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|1||
-|32.|__textClass__|1||
-|33.|__title__|3||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|1||
+|28.|__textClass__|1||
+|29.|__title__|3||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|2||
+|1.|__body__|1||
 |2.|__closer__|1||
 |3.|__desc__|110||
 |4.|__div__|3| @__type__ (3) : title_page (1), text (1), oath (1)|
 |5.|__floatingText__|1| @__xml:lang__ (1) : eng (0)|
-|6.|__front__|1||
-|7.|__g__|196| @__ref__ (196) : char:EOLhyphen (185), char:cmbAbbrStroke (5), char:EOLunhyphen (4), char:punc (2)|
-|8.|__gap__|110| @__reason__ (110) : illegible (110)  •  @__resp__ (110) : #PDCC (110)  •  @__extent__ (110) : 1 letter (89), 2 letters (10), 1 span (1), 1 word (4), 4 letters (2), 3 letters (4)|
-|9.|__head__|4||
-|10.|__hi__|237||
-|11.|__item__|24||
-|12.|__l__|14||
-|13.|__list__|4||
-|14.|__milestone__|7| @__type__ (7) : tcpmilestone (7)  •  @__unit__ (7) : unspecified (7)  •  @__n__ (7) : 1 (1), 2 (1), 3 (1), 4 (1), 6 (1), 7 (1), 8 (1)|
-|15.|__p__|94||
-|16.|__pb__|30| @__facs__ (30) : tcp:4176:1 (2), tcp:4176:2 (2), tcp:4176:3 (2), tcp:4176:4 (2), tcp:4176:5 (2), tcp:4176:6 (2), tcp:4176:7 (2), tcp:4176:8 (2), tcp:4176:9 (2), tcp:4176:10 (2), tcp:4176:11 (2), tcp:4176:12 (2), tcp:4176:13 (2), tcp:4176:14 (2), tcp:4176:15 (2)|
-|17.|__q__|2||
-|18.|__seg__|1| @__rend__ (1) : decorInit (1)|
-|19.|__signed__|1||
-|20.|__trailer__|1||
+|6.|__g__|196| @__ref__ (196) : char:EOLhyphen (185), char:cmbAbbrStroke (5), char:EOLunhyphen (4), char:punc (2)|
+|7.|__gap__|110| @__reason__ (110) : illegible (110)  •  @__resp__ (110) : #PDCC (110)  •  @__extent__ (110) : 1 letter (89), 2 letters (10), 1 span (1), 1 word (4), 4 letters (2), 3 letters (4)|
+|8.|__head__|4||
+|9.|__hi__|237||
+|10.|__item__|24||
+|11.|__l__|14||
+|12.|__list__|4||
+|13.|__milestone__|7| @__type__ (7) : tcpmilestone (7)  •  @__unit__ (7) : unspecified (7)  •  @__n__ (7) : 1 (1), 2 (1), 3 (1), 4 (1), 6 (1), 7 (1), 8 (1)|
+|14.|__p__|94||
+|15.|__pb__|30| @__facs__ (30) : tcp:4176:1 (2), tcp:4176:2 (2), tcp:4176:3 (2), tcp:4176:4 (2), tcp:4176:5 (2), tcp:4176:6 (2), tcp:4176:7 (2), tcp:4176:8 (2), tcp:4176:9 (2), tcp:4176:10 (2), tcp:4176:11 (2), tcp:4176:12 (2), tcp:4176:13 (2), tcp:4176:14 (2), tcp:4176:15 (2)|
+|16.|__q__|2||
+|17.|__seg__|1| @__rend__ (1) : decorInit (1)|
+|18.|__signed__|1||
+|19.|__trailer__|1||
